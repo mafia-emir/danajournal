@@ -1,5 +1,6 @@
 asgiref==3.11.1
 Django==5.2.12
+gunicorn
 numpy
 pandas
 pillow
